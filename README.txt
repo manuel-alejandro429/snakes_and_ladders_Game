@@ -1,3 +1,7 @@
+NOTA: a git hub no se pudo subir todo el env en el que este proyecto se desarrollo, pues se incluia Python y otros paquetes,
+como solución a ello, primero asegurarse de que en el ambiente en que ejecuten este proyecto tenga los paquetes indicados en 
+el archivo requirements.txt
+
 -----------------------------------------EJECUCIÓN DEL JUEGO ESCALERAS Y SERPIENTE ----------------------
 
 Pasos:
